@@ -1,0 +1,31 @@
+Photos from Wikimedia Commons, cut out of their backgrounds for Desk Charms.
+
+chilli.png - "Green chilli.jpg" by Snarayanprince, CC BY-SA 4.0
+             https://commons.wikimedia.org/wiki/File:Green_chilli.jpg
+lemon.png  - "Lemon-Whole-Split.jpg" by Evan-Amos, public domain (whole lemon, rotated)
+             https://commons.wikimedia.org/wiki/File:Lemon-Whole-Split.jpg
+coal.png   - "Coal anthracite.jpg", public domain
+             https://commons.wikimedia.org/wiki/File:Coal_anthracite.jpg
+bell.png   - "Brass Gremlin Bell.png" by Dalebooth, CC BY-SA 4.0 (loose wire removed)
+             https://commons.wikimedia.org/wiki/File:Brass_Gremlin_Bell.png
+horseshoe.png  - "A post medieval iron horseshoe dating 16th - 18th century. (FindID 607408).jpg" by Museum of London, Kate Sumnall, 2014-03-24 12:47:47, CC BY-SA 2.0 (one of the two, cut out, turned to point up)
+                 https://commons.wikimedia.org/wiki/File:A_post_medieval_iron_horseshoe_dating_16th_-_18th_century._(FindID_607408).jpg
+cornicello.png - "CornicelloCharm.jpg" by Antonio Cavallo, Public domain (cut out)
+                 https://commons.wikimedia.org/wiki/File:CornicelloCharm.jpg
+daruma.png     - "Daruma doll, cut out, 01.jpg" by Crisco 1492, Public domain
+                 https://commons.wikimedia.org/wiki/File:Daruma_doll,_cut_out,_01.jpg
+scarab.png     - "Heart Scarab MET 26.7.730 EGDP012364.jpg", CC0 (cut out)
+                 https://commons.wikimedia.org/wiki/File:Heart_Scarab_MET_26.7.730_EGDP012364.jpg
+omamori.png    - "Omamori charm2.jpg" by Shin-Chan at English Wikipedia, CC BY-SA 3.0 (cut out; outline mirrored where the string hid a corner)
+                 https://commons.wikimedia.org/wiki/File:Omamori_charm2.jpg
+knot.png       - "SZ 深圳 Shenzhen 南山 Nanshan 世界之窗站 Window of the World Station red CNY decorative good luck knot February 2024 R12S.jpg" by YEING Luwem Hai Wangs, CC0 (cut out)
+                 https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E4%B8%96%E7%95%8C%E4%B9%8B%E7%AA%97%E7%AB%99_Window_of_the_World_Station_red_CNY_decorative_good_luck_knot_February_2024_R12S.jpg
+drishti.png    - "கண்ணேறு பொம்மைகள்.jpg" (drishti masks on a wall) by Parvathisri, CC BY-SA 3.0 (top-right mask, cut out; horns and hairline traced by hand)
+                 https://commons.wikimedia.org/wiki/File:%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AF%87%E0%AE%B1%E0%AF%81_%E0%AE%AA%E0%AF%8A%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D.jpg
+maneki.png     - "고양이 인형 부적 Maneki neko-background removed.png" by 국립민속박물관, KOGL Type 1 (background already removed)
+                 https://commons.wikimedia.org/wiki/File:%EA%B3%A0%EC%96%91%EC%9D%B4_%EC%9D%B8%ED%98%95_%EB%B6%80%EC%A0%81_Maneki_neko-background_removed.png
+hamsa.png      - "Hand of Fatima charm with six-pointed star, Newark Museum.JPG" by Wmpearl, CC0 (cut out)
+                 https://commons.wikimedia.org/wiki/File:Hand_of_Fatima_charm_with_six-pointed_star,_Newark_Museum.JPG
+
+
+The evil eye (nazar), wind chime, glass beads and the app icon are drawn in code, not photos.
