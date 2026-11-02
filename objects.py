@@ -287,7 +287,10 @@ class EvilEye(Kind):
         # the iris and pupil turn towards the mouse; the pupil travels a little further
         lx, ly = (state or {}).get("look", (0.0, 0.0))
         for (s, h, dy), travel in zip(self.eye, (0.0, 0.11 * self.R, 0.15 * self.R)):
-            pieces.append(at(lx * travel, cy + dy + ly * travel, h, s, shadow=False))
+            # stacking order comes from the layer's height only: the small sideways glance
+            # must not tip the iris or pupil under the white when the disc is turned
+            pieces.append(Piece(s, lx * travel * cos_a + h * sin_a, cy + dy + ly * travel, squash, 0,
+                                h * cos_a, shadow=False))
         lids = (state or {}).get("lids", 0.0)
         if lids > 0.01:
             e = sprites.NAZAR_EYE_Y * self.R
